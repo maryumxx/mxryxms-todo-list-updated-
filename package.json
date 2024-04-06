@@ -1,0 +1,22 @@
+{
+  "name": "mxryxms-to-do-list",
+  "version": "2.0.1",
+  "description": "ToDo List",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maryam",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.17",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.5",
+    "@types/readline-sync": "^1.4.8"
+  }
+}
